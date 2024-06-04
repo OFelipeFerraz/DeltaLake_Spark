@@ -3,7 +3,7 @@ Tutorial de Uso do Delta Lake com Apache Spark
 
 # Descrição:
 Este repositório contém um tutorial para configurar e usar o Delta Lake com o Apache Spark. 
-Para isso será necessário instalar e configurar o Apache Spark localmente. Siga a partir de "Passos"
+Para isso será necessário instalar e configurar o Apache Spark localmente. 
 
 
 # Recursos Destacados:
@@ -15,7 +15,5 @@ Código Python: Diretório contendo o código Python para configurar e usar o De
 README.md: Este arquivo, fornecendo uma visão geral do repositório e instruções de uso.
 
 # Instruções de Uso:
-Clone este repositório para o seu ambiente local.
-Siga as instruções detalhadas no arquivo README.md para configurar o ambiente do Spark e começar a usar o Delta Lake.
-Explore os exemplos de código fornecidos para entender melhor as práticas recomendadas e funcionalidades do Delta Lake.
+Sigas os passos listado no arquivo "Passos" para configurar o ambiente do Spark  e começar a usar o Delta Lake.
 Experimente e adapte os exemplos de código conforme necessário para atender às suas necessidades específicas de análise de dados.
