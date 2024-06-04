@@ -2,7 +2,8 @@
 Tutorial de Uso do Delta Lake com Apache Spark
 
 # Descrição:
-Este repositório contém um tutorial para configurar e usar o Delta Lake com o Apache Spark. Além de, uma breve explicação de commo configurar o spark localmente.
+Este repositório contém um tutorial para configurar e usar o Delta Lake com o Apache Spark. 
+Para isso será necessário instalar e configurar o Apache Spark localmente. Siga a partir de "Passos"
 
 
 # Recursos Destacados:
